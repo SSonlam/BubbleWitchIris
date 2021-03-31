@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 5f034826cce00804ea22cdae4fe293c5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - redTexture: {fileID: 2800000, guid: 1e118590dd5f55f4eb828c86790bddf4, type: 3}
+  - blueTexture: {fileID: 2800000, guid: 786649350ed676a4982ed84af31ca3e4, type: 3}
+  - yellowTexture: {fileID: 2800000, guid: 45edb97b7aede1143af973e0aaca69f6, type: 3}
+  - purpleTexture: {fileID: 2800000, guid: f4dff78a71604d3499efcfad908cdf30, type: 3}
+  - parentUnit: {instanceID: 0}
+  - pattern: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

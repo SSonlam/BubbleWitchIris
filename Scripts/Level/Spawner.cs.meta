@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: a107bcca1c78bce42a39762874ced48e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - redBubble: {fileID: 4204986202559141994, guid: c53a324d05e8f4740b589e7e513e99f0, type: 3}
+  - yellowbubble: {fileID: 1304916834756677005, guid: e8966ac353bb2f742ac4f896603d2f12, type: 3}
+  - blueBubble: {fileID: 2485784435466279660, guid: edb39b6385da2a1418ed6adcd6d7474a, type: 3}
+  - player: {instanceID: 0}
+  - mGrid: {instanceID: 0}
+  - cam: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
